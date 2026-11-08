@@ -1,4 +1,4 @@
-<h1 align="center">Luciano Ferrari (Luc)</h1>
+<h1 align="center">Luciano Ferrari</h1>
 
 <p align="center">
   <b>Cybersecurity Executive · VP Cybersecurity (fintech) · former Chief Security Officer · Founder, LufSec</b><br/>
